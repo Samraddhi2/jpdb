@@ -15,7 +15,5 @@
 ### For more information about JsonPowerDB kindly visit the link-
 [https://login2explore.com/jpdb/docs.html]
 
-#### Release history of my code
-[https://github.com/Samraddhi2/jpdb/releases/tag/v1.35.0]
 
 
